@@ -1,5 +1,5 @@
 # NaiveBayesClassifier
-This Python program implements the Naive Bayes algorithm, which is a probabilistic classifier used for classification tasks. The algorithm works by assuming that the attributes are conditionally independent given the class label. It's a popular algorithm for text classification, spam filtering, and sentiment analysis.It is a probabilistic classifier, which means it predicts on the basis of the probability of an object.
+Implementation of Naive Bayes algorithm from scratch, which is a probabilistic classifier used for classification tasks. The algorithm works by assuming that the attributes are conditionally independent given the class label. It's a popular algorithm for text classification, spam filtering, and sentiment analysis.It is a probabilistic classifier, which means it predicts on the basis of the probability of an object.
 
 <h2>Requirements</h2>
 Python 3.6 or higher
